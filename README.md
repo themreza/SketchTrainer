@@ -2,6 +2,10 @@
 
 Learn sketching with your favorite subjects!
 
+## [Presentation Slides](presentation/sketchtrainer-presentation.pdf)
+
+[![](presentation/thumbnail.png)](presentation/sketchtrainer-presentation.pdf)
+
 ## What is SketchTrainer?
 
 - Helps you learn how to sketch and draw
@@ -102,10 +106,6 @@ and adapt the steps.
 - Regenerate step variations based on what you’ve drawn
 - Learn “step prompts” from human-made drawing tutorials
 - Sky is the limit
-
-## [Presentation Slides](presentation/sketchtrainer-presentation.pdf)
-
-[![](presentation/thumbnail.png)](presentation/sketchtrainer-presentation.pdf)
 
 ### Disclaimer
 
