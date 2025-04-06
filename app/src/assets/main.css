@@ -1,0 +1,43 @@
+#app {
+  width: 512px;
+  margin: 0 auto;
+  padding: 1rem 0;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#logo {
+  padding: 0 5rem;
+}
+
+#logo img {
+  width: 100%;
+}
+
+#buttons {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+}
+
+#buttons button {
+  font-size: 15px;
+  padding: 5px;
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
