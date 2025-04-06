@@ -2,6 +2,10 @@
 
 Learn sketching with your favorite subjects!
 
+## [Video Demo](https://www.youtube.com/watch?v=opLZGOT147Y)
+
+[![](presentation/video.png)](https://www.youtube.com/watch?v=opLZGOT147Y)
+
 ## [Presentation Slides](presentation/sketchtrainer-presentation.pdf)
 
 [![](presentation/thumbnail.png)](presentation/sketchtrainer-presentation.pdf)
